@@ -1,3 +1,3 @@
 # RocketBlog
 
-Link to website: https://rocketblog-nb0klf2yu-aleknovic.vercel.app/
+Link to website: https://rocketblog-dzdgwvq6y-aleknovic.vercel.app/
